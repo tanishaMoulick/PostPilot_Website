@@ -1,0 +1,657 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap');
+
+.navbar-nav .nav-link {
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    color: #2E2F35;
+}
+
+.navbar-nav .nav-link:hover{
+    color: black;
+}
+html,body {
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0;
+}
+
+.custom-login-btn {
+    background-color: white;
+    color: black;
+    width: 83.84px;
+    height: 44px;
+    border-radius: 12px;
+    border: 2px solid rgb(16, 15, 15); 
+     padding: 14px 22px 14px 22px; 
+    margin-right: 20px;
+    margin-left: 20px;
+    box-shadow: 3px 3px 0px 0px rgba(46, 47, 53, 1);
+    font-family: "Inter";
+   
+    
+}
+.custom-create {
+    background-color: #FF6D2C;
+    color: white;
+    width: 184.86px;
+    height: 44px;
+    border-radius: 12px;
+     border: 2px solid rgb(21, 18, 18);
+    padding: 14px 22px 14px 22px;
+    box-shadow: 3px 3px 0px 0px rgba(46, 47, 53, 1);
+    font-family: "Inter";
+    margin-right: 90px;
+
+}
+.custom-login-btn {
+  background-color: white !important;
+  color: black !important;
+  box-shadow: 3px 3px 0px 0px rgba(46, 47, 53, 1)!important;
+  border-radius: 12px !important;
+  border: 1px solid rgb(16, 15, 15) !important; 
+  
+}
+.custom-create {
+  background-color: #e66a30 !important;
+  color: white !important;
+  border-radius: 12px !important;
+  border: 1px solid rgb(21, 18, 18) !important;
+  box-shadow: 3px 3px 0px 0px rgba(46, 47, 53, 1)!important;
+}
+.container2-fluid{
+    background-color: #E0F8F2;
+  
+    margin-top: 0 !important; 
+    padding-top: 20px; 
+    
+}
+.bannerContent h1{
+    font-weight: 700;
+    font-size: 82px;
+    font-family: "Inter";
+
+}
+
+.bannerContent h1 span {
+    color: #009387;
+    font-family: "Covered By Your Grace", serif, Arial, sans-serif; /* Fallbacks added */
+    font-weight: 400;
+    font-size: 82px;
+    line-height: 90px;
+    text-align: left;
+    text-underline-position: under;
+    text-decoration-skip-ink: none;
+}
+.bannerContent p{
+    font-family: "Inter";
+    font-weight: 500;
+    size: 20px;
+    height: 68px;
+    width: 553.97px;
+    text-align: left;
+}
+
+
+.bannerContent button{
+    background-color: #FF6D2C;
+    color: white;
+    padding: 22px 66.05px 22px 65px;
+    width: 261.05px;
+    height: 64px;
+    border: 2px;
+    border-radius: 15px;
+    box-shadow: "drop shadow";
+    font-family: "Inter";
+    font-size: 13px;
+    font-weight: 700;
+    box-shadow: 3px 3px 0px 0px rgba(46, 47, 53, 1);
+
+
+}
+.hero-section{
+    min-height: 100vh;
+}
+.hero-banner {
+    background-color: #E0F8F2; 
+    padding: 60px 0; 
+}
+.custom-container {
+    width: 100%; 
+    overflow: hidden;
+}
+.brand{
+    margin-bottom: 50px;
+}
+
+.brand h1{
+    font-weight: 700;
+    font-size: 63px;
+    font-family: "Inter"; 
+    line-height: 76px; 
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.brand h1 span{
+    color: #009387;
+    font-family: "Covered By Your Grace", serif, Arial, sans-serif; 
+    font-weight: 400; 
+    text-align: center;
+    font-size: 63px;
+}
+.bar{
+    background-color: #F3FAFA;
+    
+        padding: 80px 0; 
+    
+}
+.bar h1{
+    font-weight: 700;
+    font-size: 63px;
+    font-family: "Inter"; 
+    line-height: 76px; 
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+   
+    
+}
+.bar h1 span{
+    color: #009387;
+    font-family: "Covered By Your Grace", serif, Arial, sans-serif; 
+    font-weight: 400; 
+    text-align: center;
+    font-size: 63px;
+
+}
+.bar-content h1{
+    font-weight: 700;
+    font-size: 63px;
+    font-family: "Inter"; 
+    line-height: 75px; 
+    text-align: center; ;
+}
+.bar-content p{
+font-family: "Inter";
+font-size: 14px;
+font-weight: 500;
+line-height: 22px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.ratings {
+  color: #0e0c0c;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  gap: 5px;
+  
+}
+
+.rating-stars {
+  color: rgb(233, 182, 53);
+ 
+}
+
+.ratings-text {
+  font-size: 16px;
+   color: #000;
+   font-weight: 600PX;
+   
+}
+.postcard{
+    background-color: #FDF3EA;
+    padding: 80px 0; 
+}
+
+.postcard h1{
+    font-weight: 700;
+    font-size: 70px;
+    font-family: "Inter"; 
+    line-height: 76px; 
+    
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+   
+    
+}
+.postcard h1 span{
+    color: #009387;
+    font-family: "Covered By Your Grace", serif, Arial, sans-serif; 
+    font-weight: 400; 
+    text-align: center;
+    font-size: 90px;
+    line-height: 76px;
+
+}
+.postcard-content{
+    padding-top: 80px;
+    text-align: left;
+}
+.postcard-content h1{
+    
+    font-size: 80px;
+}
+.postcard-content p{
+    font-family: "Inter";
+font-size: 20px;
+font-weight: 500;
+line-height: 34px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.testimonial {
+    font-style: italic;
+   
+    padding: 20px 15px;
+    border: 2px solid rgba(209, 199, 190, 1);
+    border-radius: 15px;
+    margin-top: 20px;
+    width: 516.44px;
+    height: 167.98px;
+    gap: 16px;
+    opacity: 1; 
+    position: relative;
+}
+.testimonial::before {
+  font-style: normal; 
+  content: '\f10d'; 
+  font-family: "Font Awesome 5 Free"; 
+  font-weight: 900; 
+  display: inline-block;
+  margin-right: 10px;
+  color: orange;
+
+  position: absolute;
+  top: -12px; 
+  left: 20px; 
+  background-color: #fdf5ef; 
+  padding: 0 5px; 
+}
+.testimonial p{
+font-family: "Inter";
+font-size: 15px;
+font-style: italic;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.testimonial span {
+    font-weight: bold;
+    color:#A89B90;
+    font-family: "Roboto";
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+text-align: left;
+text-underline-position: "from-font";
+text-decoration-skip-ink: none;
+
+}
+
+.highlight{
+    padding-top: 100px;
+    font-weight: 700;
+    font-size: 70px;
+    font-family: "Inter"; 
+    line-height: 76px; 
+    
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+.highlights {
+    text-align: right;
+    font-size: 20px;
+   font-weight: 500;
+   line-height: 34px;
+}
+
+.postcard button{
+    background-color: #FF6D2C;
+    color: white;
+    padding: 22px 66.05px 22px 65px;
+    width: 261.05px;
+    height: 64px;
+    border: 2px;
+    border-radius: 15px;
+    
+    font-family: "Inter";
+    font-size: 13px;
+    font-weight: 700;
+    margin-top: 50px;
+    box-shadow: 3px 3px 0px 0px rgba(46, 47, 53, 1);
+}
+.testi-coma{
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+
+
+/*5th page*/
+.brandheading {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    font-weight: 700;
+    font-size: 64px;
+    font-family: "Inter"; 
+    line-height: 76px; 
+    
+    letter-spacing: 2px;
+}
+.brandheading span{
+    font-family: "Covered By Your Grace";
+    color: #009387;
+font-size: 70px;
+font-weight: 400;
+line-height: 100px;
+letter-spacing: -4px;
+text-align: center;
+text-underline-position: "from-font";
+text-decoration-skip-ink: none;
+
+}
+
+.need-1{
+    background: #FDF3EA;
+    width: 410px;
+height: 506.53px;
+gap: 0px;
+border-radius: 13px 13px 13px 13px;
+opacity: 0px;
+padding-block: 50px;
+margin-bottom: 30px;
+
+
+}
+.need-1 img{
+    width: 330px;
+height: 208.53px;
+top: 40px;
+left: 40px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 30px;
+
+}
+
+.need-1 h2{
+    font-family: "Inter";
+font-size: 28px;
+font-weight: 700;
+line-height: 36px;
+text-align: center;
+text-underline-position:"from-font";
+text-decoration-skip-ink: none;
+
+}
+.need-1 p{
+    font-family:"Inter";
+font-size: 16px;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:#58595D ;
+
+}
+
+/*6th page*/
+.launch{
+    padding-block: 50px;
+    margin-top: 50px;
+}
+.launchhead {
+   
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-size: 64px;
+    font-family: "Inter"; 
+    line-height: 76px; 
+    text-align: center;
+    letter-spacing: 2px;
+}
+.launchhead span{
+font-family: "Covered By Your Grace";
+color: #009387;
+font-size: 70px;
+font-weight: 400;
+line-height: 100px;
+letter-spacing: -4px;
+text-align: center;
+text-underline-position: "from-font";
+text-decoration-skip-ink: none;
+}  
+.step {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-bottom: 2rem;
+  }
+  .step-number {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #9c9c9c;
+    margin-right: 1rem;
+  }
+  .step.active .step-number {
+    color: #05a89f;
+  }
+  .step-content h4 {
+    margin: 0;
+    font-weight: bold;
+    color: #333;
+  }
+  .step-content p {
+    margin: 0;
+    color: #666;
+  }
+  .line {
+    position: absolute;
+    left: 1.2rem;
+    top: 2.3rem;
+    height: 3.5rem;
+    width: 2px;
+    background-color: #9c9c9c;
+  }
+  .step.active + .step .line {
+    background-color: #05a89f;
+  }
+  .step:last-child .line {
+    display: none; 
+  }
+
+  /*review*/
+  .review{
+    background-color: #E3F8F8;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  /*pink*/
+  .obvi-banner h1{
+    font-size: 63px;
+    margin-top: 50px;
+
+  }
+  .obvi-banner button{
+    background-color: white;
+    color: #000;
+    border: #000;
+    box-shadow: 3px 3px 0px 0px rgba(46, 47, 53, 1);
+    font-weight: 700;
+    font-size: 14px;
+    font-family: "Inter";
+    width: 232.56px;
+    height: 63px;
+  
+  }
+  .obvi-banner ul li h1{
+    font-family: "Inter";
+font-size: 34px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: -1px;
+text-align: left;
+text-underline-position: "from-font";
+text-decoration-skip-ink: none;
+
+
+  }
+  .obvi-banner ul {
+    display: flex;
+
+  }
+  .stat-item {
+    margin-bottom: 15px;
+  }
+  .stat-value {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .stat-label {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  .logo-section {
+    
+    /* padding: 20px; */
+    /* border-radius: 10px; */
+    text-align: left;
+    display: flex;
+  justify-content: space-around;
+  }
+  .logo-item {
+    /* opacity: 0.5; */
+    /* transition: opacity 0.3s ease; */
+    width: 150.09px;
+    height: 27.98px;
+    left: 24px;
+    gap: 0px;
+    opacity: 0px;
+    
+    
+  }
+  .logo-item.active {
+    opacity: 1;
+  }
+  .logo-item:hover {
+    opacity: 0.10;
+  }
+  .logo-item.active::after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 3px;
+    background-color: #00b7c2; 
+    /* margin: 5px auto 0; */
+    border-radius: 2px;
+  }
+  .logo-container img {
+    max-height: 50px;
+  }
+
+  /*post-pilot */
+  .cta-section {
+    background-color: #ff6a00; 
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .cta-button {
+    background-color: #fff;
+    color: #000;
+    border-color: #000;
+    border-radius: 25px;
+    font-weight: bold;
+    padding: 10px 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: transform 0.2s;
+    margin-right:20px;
+  }
+  
+  .cta-button:hover {
+    transform: scale(1.05);
+  }
+  
+  .rating {
+    color: #fff;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    gap: 5px;
+  }
+  
+  .stars {
+    color: white; 
+  }
+  
+  .rating-text {
+    font-size: 14px; 
+  }
+
+  .trends h5{
+    font-family: "Inter";
+font-size: 25px;
+font-weight: 700;
+line-height: 36px;
+text-align: left;
+text-underline-position: "from-font";
+text-decoration-skip-ink: none;
+padding-top: 30px;
+padding-bottom: 50px;
+
+  }
+  /*footer-section*/
+  .footer {
+            background-color: #f8f9fa;
+            padding: 40px 0;
+        }
+        .footer h5 {
+            font-weight: bold;
+        }
+        .footer a {
+            color: #6c757d;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+        .footer .eco-section img {
+            max-width: 100px;
+        }
+        .footer .eco-section p {
+            font-size: 14px;
+            color: #6c757d;
+        }
+        .footer .bottom-section {
+            border-top: 1px solid #dee2e6;
+            padding-top: 20px;
+            margin-top: 20px;
+            text-align: center;
+        }
+        .footer .bottom-section .btn {
+            margin: 5px;
+        }
+  
+        .brand img {
+          max-width: 100%;
+          height: auto;
+      }

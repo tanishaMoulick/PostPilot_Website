@@ -1,0 +1,221 @@
+ 
+
+@media only screen and (max-width: 990px) {
+    .bannerContent h1 {
+        font-weight: 700;
+        font-size: 50px;
+        font-family: "Inter", sans-serif; 
+        text-align: center; 
+        padding-top: 35px;
+    }
+
+    .bannerContent h1 span {
+        color: #009387;
+        font-family: "Covered By Your Grace", serif, Arial, sans-serif; 
+         font-weight: 400;
+        font-size: 50px;
+        line-height: 1.2; 
+        text-align: center;
+        text-underline-position: under;
+        text-decoration-skip-ink: none;
+    } 
+
+    .bannerContent p {
+        font-family: "Inter", sans-serif; 
+        font-weight: 400;
+        font-size: 14px; 
+        line-height: 1.5; 
+        text-align: center;
+        margin: 0 auto;
+         max-width: 90%;  
+    }
+
+    .brand h1{
+        font-weight: 700;
+        font-size: 43px;
+        font-family: "Inter"; 
+        line-height: 56px; 
+        text-align: center;
+        letter-spacing: 2px;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .brand h1 span{
+        color: #009387;
+        font-family: "Covered By Your Grace", serif, Arial, sans-serif; 
+        font-weight: 300; 
+        text-align: center;
+        font-size: 43px;
+    }
+
+    .bar h1{
+        font-weight: 700;
+        font-size: 43px;
+        font-family: "Inter"; 
+        line-height: 56px; 
+        text-align: center;
+        letter-spacing: 2px;
+        margin-bottom: 40px;
+       
+        
+    }
+    
+    .bar h1 span{
+        color: #009387;
+        font-family: "Covered By Your Grace", serif, Arial, sans-serif; 
+        font-weight: 400; 
+        text-align: center;
+        font-size: 43px;
+    
+    }
+    .bar-content h1{
+        font-weight: 700;
+        font-size: 63px;
+        font-family: "Inter"; 
+        line-height: 56px; 
+        text-align: center; ;
+    }
+    .bar-content p{
+    font-family: "Inter";
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 12px;
+    text-align: center;
+    
+    
+    }
+    .postcard h1{
+        font-weight: 700;
+        font-size: 50px;
+        font-family: "Inter"; 
+        line-height: 56px; 
+        
+        /* letter-spacing: 2px; */
+        margin-bottom: 40px;
+       
+        
+    }
+    .postcard h1 span{
+        color: #009387;
+        font-family: "Covered By Your Grace", serif, Arial, sans-serif; 
+        font-weight: 400; 
+        text-align: center;
+        font-size: 60px;
+        line-height: 56px;
+    
+    }
+    .postcard-content h1{
+    
+        font-size: 50px;
+    }
+    .postcard-content p{
+        font-family: "Inter";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+     }
+     .highlight{
+        font-size: 50px;
+        line-height: 46px;
+     }
+     .highlights{
+        font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+     }
+    .testimonial {
+        font-style: italic;
+       
+        padding: 10px 15px;
+        border: 2px solid rgba(209, 199, 190, 1);
+        border-radius: 15px;
+        margin-top: 20px;
+        width: 350.44px;
+        height: 107.98px;
+        gap: 16px;
+        opacity: 1; 
+        position: relative;
+    }
+    .testimonial p{
+        font-family: "Inter";
+        font-size: 10px;
+        
+        font-weight: 500;
+        line-height:12px;
+        
+        
+        }
+
+        .brandheading {
+            padding-top: 60px;
+            padding-bottom: 40px;
+            font-weight: 600;
+            font-size: 60px;
+            font-family: "Inter"; 
+            line-height: 54px; 
+            
+            letter-spacing: 2px;
+        }
+        .brandheading span{
+            font-family: "Covered By Your Grace";
+            color: #009387;
+        font-size: 46px;
+        font-weight: 400;
+        line-height: 56px;
+        letter-spacing: -4px;
+        }
+
+        .need-1{
+            background: #FDF3EA;
+            width: 300px;
+        height: 406.53px;
+        gap: 0px;
+        border-radius: 13px 13px 13px 13px;
+        opacity: 0px;
+        padding-block: 50px;
+        margin-bottom: 30px;
+       
+        
+        
+        }
+        .need-1 img{
+            width: 230px;
+        height: 108.53px;
+        top: 40px;
+        left: 40px;
+        gap: 0px;
+        opacity: 0px;
+        margin-bottom: 30px;
+        
+        }
+        
+        .need-1 h2{
+            
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 36px;
+        text-align: center;
+         }
+        .need-1 p{
+            
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 30px;
+        }
+
+} 
+@media only screen and (max-width:325px){
+    .bannerContent button{
+         padding: 12px 46.05px 12px 45px;
+         width: 261.05px;
+        height: 64px;
+        font-size: 10px;
+        font-weight: 600;
+        }
+    .ratings-text{
+        font-size: 10px;
+    }
+    .obvi-banner p{
+        font-size: 12px;
+    }
+}
